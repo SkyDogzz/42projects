@@ -1,0 +1,3 @@
+[submodule "pushed/libft"]
+	path = pushed/libft
+	url = https://github.com/SkyDogzz/libft.git
